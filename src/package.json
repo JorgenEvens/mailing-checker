@@ -1,0 +1,11 @@
+{
+  "name": "mailing-checker",
+  "version": "0.1.0",
+  "description": "Checks a list of mailaddresses if they exist.",
+  "main": "app.js",
+  "author": "Jorgen Evens <jorgen@evens.eu>",
+  "license": "MIT",
+  "dependencies": {
+    "line-by-line": "~0.1.1"
+  }
+}
